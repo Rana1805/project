@@ -20,16 +20,16 @@
         "title": "Harry Potter",
         "author": "J.K. Rowling",
         "category": "Fantasy",
-        "is_available": true,
-        "borrower": null
+        "is_available": false,
+        "borrower": "Aryan"
     },
     {
         "book_id": "BK004",
         "title": "Animal Farm",
         "author": "George Orwell",
         "category": "Fiction",
-        "is_available": true,
-        "borrower": null
+        "is_available": false,
+        "borrower": "Riya"
     },
     {
         "book_id": "BK005",
