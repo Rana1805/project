@@ -1,0 +1,42 @@
+[
+    {
+        "book_id": "BK001",
+        "title": "1984",
+        "author": "George Orwell",
+        "category": "Fiction",
+        "is_available": true,
+        "borrower": null
+    },
+    {
+        "book_id": "BK002",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "category": "Fiction",
+        "is_available": true,
+        "borrower": null
+    },
+    {
+        "book_id": "BK003",
+        "title": "Harry Potter",
+        "author": "J.K. Rowling",
+        "category": "Fantasy",
+        "is_available": true,
+        "borrower": null
+    },
+    {
+        "book_id": "BK004",
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "category": "Fiction",
+        "is_available": true,
+        "borrower": null
+    },
+    {
+        "book_id": "BK005",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "category": "Romance",
+        "is_available": true,
+        "borrower": null
+    }
+]
